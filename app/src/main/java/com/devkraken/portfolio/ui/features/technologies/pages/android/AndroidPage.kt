@@ -1,4 +1,4 @@
-package com.devkraken.portfolio.ui.features.technologies.pages
+package com.devkraken.portfolio.ui.features.technologies.pages.android
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

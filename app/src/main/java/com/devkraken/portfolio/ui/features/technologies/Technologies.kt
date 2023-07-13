@@ -4,7 +4,7 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.runtime.Composable
-import com.devkraken.portfolio.ui.features.technologies.pages.AndroidPage
+import com.devkraken.portfolio.ui.features.technologies.pages.android.AndroidPage
 import com.devkraken.portfolio.ui.features.technologies.pages.PagerState
 
 @OptIn(ExperimentalFoundationApi::class)
