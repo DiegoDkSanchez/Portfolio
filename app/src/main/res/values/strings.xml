@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Portfolio</string>
+
+    <string name="android_title">Android\nKotlin</string>
+
+    <string name="flutter_title">Flutter Dart</string>
 </resources>

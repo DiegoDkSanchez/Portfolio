@@ -28,12 +28,10 @@ class MainActivity : ComponentActivity() {
                 }
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background
                 ) {
                     Box(
                         Modifier
                             .fillMaxHeight()
-                            .background(White)
                     ) {
                         TechnologiesPage()
                     }

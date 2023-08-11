@@ -5,8 +5,8 @@ sealed class PagerState {
         const val pages = 2
         fun getPage(state: Int) : PagerState {
             return when(state) {
-                1 -> return Android
-                2 -> return Flutter
+                0 -> return Android
+                1 -> return Flutter
                 else -> {
                     Android
                 }
