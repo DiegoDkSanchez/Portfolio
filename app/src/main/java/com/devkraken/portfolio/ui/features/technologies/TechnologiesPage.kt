@@ -12,6 +12,7 @@ import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Modifier
 import com.devkraken.portfolio.ui.features.technologies.pages.android.AndroidPage
 import com.devkraken.portfolio.ui.features.technologies.pages.PagerState
+import com.devkraken.portfolio.ui.features.technologies.pages.flutter.FlutterPage
 import kotlinx.coroutines.flow.collect
 
 @OptIn(ExperimentalFoundationApi::class)
@@ -36,7 +37,7 @@ fun TechnologiesPage() {
                     AndroidPage()
                 }
                 PagerState.Flutter -> {
-                    AndroidPage()
+                    FlutterPage()
                 }
             }
         }
