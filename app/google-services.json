@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308671819530",
+    "project_id": "portfolio-98d14",
+    "storage_bucket": "portfolio-98d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308671819530:android:68f6f4e4fe93d34451d4f3",
+        "android_client_info": {
+          "package_name": "com.devkraken.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308671819530-i11t8306vkma8tbntef5rvupsp966n1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VzhECc__rDSbaIQ90MP5jw9cPdyXJe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308671819530-i11t8306vkma8tbntef5rvupsp966n1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
